@@ -1656,6 +1656,10 @@ cite {
   display: block;
 }
 
+span.lightweight {
+  color: #757575;
+}
+
 .fa-bullhorn {
   color: #f44336;
 }
@@ -1663,6 +1667,10 @@ cite {
 .fa-group {
   /*color: #2196F3;*/
   color: #FF9800;
+}
+
+.fa-file {
+  color: #FDD835;
 }
 
 i.in-title {
