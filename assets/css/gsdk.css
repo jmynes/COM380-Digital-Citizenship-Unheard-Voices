@@ -62,7 +62,6 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 
 h1 .subtitle {
   display: block;
-  font-family: 'Grand Hotel',cursive;
   margin: 0 0 30px; }
 
 .text-primary, .text-primary:hover {
