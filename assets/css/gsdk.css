@@ -1646,6 +1646,10 @@ section {
   margin-bottom: 4em;
 }
 
+blockquote p {
+  font-size: 1.5em;
+}
+
 @media (min-width: 768px) {
   .navbar-form {
     margin-top: 21px;
