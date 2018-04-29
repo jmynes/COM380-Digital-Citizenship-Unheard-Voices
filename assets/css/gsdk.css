@@ -1646,6 +1646,10 @@ section {
   margin-bottom: 4em;
 }
 
+i.in-title {
+  margin-right: 1em;
+}
+
 blockquote p {
   font-size: 1.5em;
 }
