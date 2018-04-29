@@ -1646,12 +1646,24 @@ section {
   margin-bottom: 4em;
 }
 
+section p {
+  line-height: 1.75em;
+}
+
 i.in-title {
   margin-right: 1em;
 }
 
+blockquote p::before, blockquote p::after {
+  content: "\"";
+  font-size: 1.5em;
+}
+
 blockquote p {
   font-size: 1.5em;
+  font-weight: 700;
+  line-height: 1.5em;
+  font-style: italic;
 }
 
 @media (min-width: 768px) {
