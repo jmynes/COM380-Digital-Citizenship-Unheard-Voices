@@ -1648,6 +1648,10 @@ audio {
     margin: 0 auto;
   }
 
+  section {
+    margin-bottom: 4em;
+  }
+
   .navbar-form {
     margin-top: 21px;
     margin-bottom: 21px;
