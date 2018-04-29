@@ -1638,20 +1638,15 @@ audio {
   width: 100%;
   display: table;
   margin: 0 auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+section {
+  margin-bottom: 4em;
 }
 
 @media (min-width: 768px) {
-
-  audio {
-    width: 100%;
-    display: table;
-    margin: 0 auto;
-  }
-
-  section {
-    margin-bottom: 4em;
-  }
-
   .navbar-form {
     margin-top: 21px;
     margin-bottom: 21px;
