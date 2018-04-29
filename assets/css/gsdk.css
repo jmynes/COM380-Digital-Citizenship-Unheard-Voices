@@ -1650,6 +1650,10 @@ section p {
   line-height: 1.75em;
 }
 
+cite {
+  display: block;
+}
+
 i.in-title {
   margin-right: 1em;
 }
