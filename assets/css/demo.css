@@ -391,6 +391,11 @@
     width: 50%;
 }
 
+.testt {
+  width: 100%;
+  background-color: black;
+}
+
 @media (max-width: 768px){
     .blurred-container .motto{
         font-size: 3em;
