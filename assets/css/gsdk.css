@@ -1654,6 +1654,15 @@ cite {
   display: block;
 }
 
+.fa-bullhorn {
+  color: #f44336;
+}
+
+.fa-group {
+  /*color: #2196F3;*/
+  color: #FF9800;
+}
+
 i.in-title {
   margin-right: 1em;
 }
