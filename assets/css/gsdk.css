@@ -1654,6 +1654,10 @@ i.in-title {
   margin-right: 1em;
 }
 
+.image-set {
+  margin-bottom: 3em;
+}
+
 blockquote p::before, blockquote p::after {
   content: "\"";
   font-size: 1.5em;
