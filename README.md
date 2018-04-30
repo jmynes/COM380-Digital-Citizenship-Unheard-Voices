@@ -1,6 +1,9 @@
 # Class Topics
 * Alternative Models of Citizenship
+* Cultural Citizenship
 * Participatory Politics
+* Youth Citizenship and Participation
+
 
 # CSS Base
 * https://www.creative-tim.com/product/get-shit-done-kit
