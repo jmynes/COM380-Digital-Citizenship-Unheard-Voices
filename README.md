@@ -8,18 +8,24 @@ Students have the option to conceive and/or create a digital media project (e.g.
 ## What I chose to do with the above information
 I have created a simple, mobile-first and responsive website which could be used again in the future to feature highlights of an interview with someone who's voice often goes unheard. I am not a particularly talented interviewer just yet, but in the future to prepare for conducting an interview I would probably practice more with a roommate or mirror.
 
-# The Interview
+# The interview
 I've edited out the beginning small talk, and in the article I've made highlights available in-text. The edited interview is about 30 minutes long, and was conducted by a Google Hangouts call. My interviewee chose to remain anonymous, if you recognize his voice I ask that you respect his privacy.
 
 [The full, lightly edited interview can be found here](https://drive.google.com/file/d/11sC-8WNtouEPK8r_69VMyAnWWrWhIWp0/view?usp=sharing)
 
-# Highlighted Class Topics
+# Highlighted class topics
 * Alternative Models of Citizenship
 * Cultural Citizenship
 * Participatory Politics
 * Youth Citizenship and Participation
 
-# CSS Base
+# Links to various causes brought up in interview
+* [People and Planet First](https://peoplesaction.org/people-and-planet-first/)
+* [Student ACCESS Bill](http://www.studentaccessil.com/)
+* [Protection for All](https://www.facebook.com/ProtectionForAllMovement/)
+
+
+# CSS base
 I edited the following Bootstrap3 theme, making certain parts work better with longer text and most importantly on mobile. There are still fragments of code that I don't really need, and ideally I would probably just export my work on this into my own theme and drop Bootstrap in the future. I also added a few features like the feature quotes and citations myself, as well as responsive video and numerous other small tweaks.
 * https://www.creative-tim.com/product/get-shit-done-kit
 
