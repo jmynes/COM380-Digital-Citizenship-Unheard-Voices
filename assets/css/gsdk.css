@@ -1724,6 +1724,10 @@ blockquote p {
 }
 
 @media (min-width: 768px) {
+  .container.content {
+    width: 80%;
+  }
+
   .navbar-form {
     margin-top: 21px;
     margin-bottom: 21px;
@@ -1822,6 +1826,14 @@ blockquote p {
     display: none !important; } }
 /*          Changes for small display      */
 @media (max-width: 767px) {
+  .container.content {
+    width: 95%;
+  }
+
+  audio {
+    width: 100%;
+  }
+
   .navbar-transparent {
     padding-top: 0px;
     background-color: rgba(44, 168, 255, 1); }
