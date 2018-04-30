@@ -1712,8 +1712,11 @@ blockquote.three, footer.blockquote-footer.three {
 }
 
 blockquote.four, footer.blockquote-footer.four {
-  /*border-color: #2196F3;*/
   border-color: #4CAF50;
+}
+
+blockquote.five, footer.blockquote-footer.five {
+  border-color: #2196F3;
 }
 
 span.lightweight {
@@ -1725,7 +1728,6 @@ span.lightweight {
 }
 
 .fa-group {
-  /*color: #2196F3;*/
   color: #FF9800;
 }
 
@@ -1734,8 +1736,11 @@ span.lightweight {
 }
 
 .fa-comments {
-  /*color: #2196F3;*/
   color: #4CAF50;
+}
+
+.fa-heart {
+  color: #2196F3;
 }
 
 i.in-title {
