@@ -1763,6 +1763,10 @@ blockquote p {
   font-style: italic;
 }
 
+p {
+  font-size: 1.125em;
+}
+
 .credits {
   padding-bottom: 2em;
 }
