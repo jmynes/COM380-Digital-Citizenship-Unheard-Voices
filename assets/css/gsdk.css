@@ -1763,6 +1763,10 @@ blockquote p {
   font-style: italic;
 }
 
+.credits {
+  padding-bottom: 2em;
+}
+
 @media (min-width: 768px) {
   .container.content {
     width: 80%;
