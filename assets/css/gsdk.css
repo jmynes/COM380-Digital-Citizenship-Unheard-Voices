@@ -1764,7 +1764,7 @@ blockquote p {
 }
 
 p {
-  font-size: 1.125em;
+  font-size: 1.25em;
 }
 
 .credits {
@@ -1874,6 +1874,10 @@ p {
     display: none !important; } }
 /*          Changes for small display      */
 @media (max-width: 767px) {
+  p {
+    font-size: 1.125em;
+  }
+
   .container.content {
     width: 95%;
   }
