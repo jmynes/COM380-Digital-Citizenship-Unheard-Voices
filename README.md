@@ -6,7 +6,7 @@ This course examines the implications of emerging digital media practices for ci
 Students have the option to conceive and/or create a digital media project (e.g. Blog, YouTube channel, a civic media app) that would contribute to the practice of a particular dimension of citizenship for certain groups. The project will apply ideas and concepts developed in class to a creative/interventionist tool.
 
 ## What I chose to do with the above information
-I have created a simple website which could be used again in the future to feature highlights of an interview with someone who's voice often goes unheard. I am not a particularly talented interviewer just yet, but in the future to prepare for conducting an interview I would probably practice more with a roommate or mirror.
+I have created a simple, mobile-first and responsive website which could be used again in the future to feature highlights of an interview with someone who's voice often goes unheard. I am not a particularly talented interviewer just yet, but in the future to prepare for conducting an interview I would probably practice more with a roommate or mirror.
 
 # Highlighted Class Topics
 * Alternative Models of Citizenship
