@@ -15,6 +15,7 @@ I have created a simple, mobile-first and responsive website which could be used
 * Youth Citizenship and Participation
 
 # CSS Base
+I edited the following Bootstrap3 theme, making certain parts work better with longer text and most importantly on mobile. There are still fragments of code that I don't really need, and ideally I would probably just export my work on this into my own theme and drop Bootstrap in the future. I also added a few features like the feature quotes and citations myself, as well as responsive video and numerous other small tweaks.
 * https://www.creative-tim.com/product/get-shit-done-kit
 
 # Images
