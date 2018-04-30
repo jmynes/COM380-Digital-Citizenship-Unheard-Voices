@@ -8,6 +8,11 @@ Students have the option to conceive and/or create a digital media project (e.g.
 ## What I chose to do with the above information
 I have created a simple, mobile-first and responsive website which could be used again in the future to feature highlights of an interview with someone who's voice often goes unheard. I am not a particularly talented interviewer just yet, but in the future to prepare for conducting an interview I would probably practice more with a roommate or mirror.
 
+# The Interview
+I've edited out the beginning small talk, and in the article I've made highlights available in-text. The edited interview is about 30 minutes long, and was conducted by a Google Hangouts call. My interviewee chose to remain anonymous, if you recognize his voice I ask that you respect his privacy.
+
+[The full, lightly edited interview can be found here](https://drive.google.com/file/d/11sC-8WNtouEPK8r_69VMyAnWWrWhIWp0/view?usp=sharing)
+
 # Highlighted Class Topics
 * Alternative Models of Citizenship
 * Cultural Citizenship
