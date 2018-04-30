@@ -1776,6 +1776,10 @@ p {
     width: 80%;
   }
 
+  .quote-citation, .text-citation, cite {
+    font-size: 1.125em;
+  }
+
   .navbar-form {
     margin-top: 21px;
     margin-bottom: 21px;
