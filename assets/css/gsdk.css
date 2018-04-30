@@ -1656,6 +1656,36 @@ cite {
   display: block;
 }
 
+blockquote {
+  border-left-width: 2px;
+}
+
+footer.blockquote-footer {
+  display: inline-block;
+  border-bottom: 3px solid;
+  padding: 1.66em;
+}
+
+footer.blockquote-footer.text-citation {
+  border-left: 4px solid;
+}
+
+footer.blockquote-footer.quote-citation {
+  border-right: 4px solid;
+}
+
+blockquote.one, footer.blockquote-footer.one {
+  border-color: #f44336;
+}
+
+blockquote.two, footer.blockquote-footer.two {
+  border-color: #ff9800;
+}
+
+blockquote.three, footer.blockquote-footer.three {
+  border-color: #fdd835;
+}
+
 span.lightweight {
   color: #757575;
 }
